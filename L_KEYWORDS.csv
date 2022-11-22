@@ -1,0 +1,201 @@
+KEY,NOTES_FOR_LOCALISATION,LINE_EN,LINE_XX,LINE_FR,LINE_IT,LINE_DE,LINE_ES,LINE_BP,LINE_JP,LINE_RU,LINE_KP,LINE_CN,LINE_XX
+$lifespan0,"Represents the word for the 'life' trait of a bee, which is how long a queen will live for",Lifespan,X,Durée de vie,Longevità,Lebensdauer,Longevidad,Tempo de Vida,寿命,,,寿命,X
+$lifespan1,Level 1 lifespan value (Shortest Life),Hyper,X,Éclair,Fugace,Ein Atemzug,Efímera,Fugaz,とても短い,,,极短,X
+$lifespan2,Level 2 lifespan value,Rapid,X,Rapide,Rapida,Sehr kurz,Brevísima,Curtíssimo,短い,,,很短,X
+$lifespan3,Level 3 lifespan value,Short,X,Courte,Corta,Kurz,Corta,Curto,やや短い,,,短,X
+$lifespan4,Level 4 lifespan value,Normal,X,Normale,Normale,Normal,Normal,Normal,ふつう,,,普通,X
+$lifespan5,Level 5 lifespan value,Long,X,Longue,Lunga,Lang,Larga,Longo,やや長い,,,长,X
+$lifespan6,Level 6 lifespan value,Ancient,X,Ancienne,Antica,Sehr lang,Longeva,Anciã,長い,,,很长,X
+$lifespan7,Level 7 lifespan value (Longest Life),Eternal,X,Éternelle,Eterna,Ewig,Eterna,Eterna,永遠,,,永恒,X
+$productivity0,"Represents the word for the 'productivity' trait of a bee, how much produce the bee will make in it's life",Productivity,X,Productivité,Produttività,Produktivität,Productividad,Produtividade,はたらき,,,生产力,X
+$productivity1,Level 1 productivity value (Slowest Production),Sluggish,X,Paresseuse,Inerte,Träge,Pasmosa,Preguiçosa,とても遅い,,,极慢,X
+$productivity2,Level 2 productivity value ,Slowest,X,Flâneuse,Lentissima,Sehr langsam,Lentísima,Lerdíssima,遅い,,,很慢,X
+$productivity3,Level 3 productivity value ,Slow,X,Lente,Lenta,Langsam,Lenta,Lerda,やや遅い,,,慢,X
+$productivity4,Level 4 productivity value ,Normal,X,Normale,Normale,Normal,Normal,Normal,ふつう,,,普通,X
+$productivity5,Level 5 productivity value ,Fast,X,Rapide,Veloce,Schnell,Rápida,Veloz,やや速い,,,快,X
+$productivity6,Level 6 productivity value ,Fastest,X,Active,Velocissima,Sehr schnell,Rapidísima,Velocíssima,速い,,,很快,X
+$productivity7,Level 7 productivity value (Fastest Production),Brisk,X,Vive,Incredibile,Äußerst flink,Briosa,Incansável,とても速い,,,极快,X
+$fertility0,"Represents the word for the 'fertility' trait of a bee, how many offspring a queen produces at the end of it's life",Fertility,X,Fertilité,Fertilità,Fruchtbarkeit,Fertilidad,Fertilidade,繁殖,,,繁殖力,X
+$fertility1,Level 1 fertility value (Lowest Fertility),Sterile,X,Stérile,Sterile,Steril,Estéril,Estéril,しない,,,不育,X
+$fertility2,Level 2 fertility value,Infertile,X,Infertile,Infertile,Unfruchtbar,Infértil,Infértil,ほとんどしない,,,极少育,X
+$fertility3,Level 3 fertility value,Unlucky,X,Malchanceuse,Sfortunata,Glücklos,Desafortunada,Desafortunada,あまりしない,,,少育,X
+$fertility4,Level 4 fertility value,Fertile,X,Fertile,Fertile,Fruchtbar ,Fértil,Fértil,する,,,可育,X
+$fertility5,Level 5 fertility value,Fecund,X,Fertile,Feconda,Sehr fruchtbar,Fecunda,Fecunda,よくする,,,多产,X
+$fertility6,Level 6 fertility value,Prolific,X,Prolifique,Profilica,Lebensbejahend,Prolífica,Prolífica,たくさん産む,,,极多产,X
+$fertility7,Level 7 fertility value (Highest Fertility),Swarming,X,Foisonnante,Brulicante,Schwarmartig,Ubérrima,Mãe de Enxames,群れを産む,,,生生不息,X
+$stability0,"Represents the word for the 'stability' trait of a bee, which is how stable a bee is (how likely it is to mutate into a new species)",Stability,X,Stabilité,Stabilità,Stabilität,Estabilidad,Estabilidade,変異,,,变异性,X
+$stability1,Level 1 stability value (Lowest Stability),Chaotic,X,Chaotique,Caotica,Chaotisch,Caótica,Caótica,とてもしやすい,,,极强,X
+$stability2,Level 2 stability value,Erratic,X,Erratique,Irregolare,Fehleranfällig,Errática,Errática,しやすい,,,很强,X
+$stability3,Level 3 stability value,Unstable,X,Instable,Instabile,Instabil,Inestable,Instável,たまにする,,,强,X
+$stability4,Level 4 stability value,Normal,X,Normale,Normale,Normal,Normal,Normal,ふつう,,,普通,X
+$stability5,Level 5 stability value,Stable,X,Stable,Stabile,Stabil ,Estable,Estável,あまりしない,,,弱,X
+$stability6,Level 6 stability value,Ordered,X,Solide,Ordinata,Geordnet,Tranquila,Organizada,ほぼしない,,,很弱,X
+$stability7,Level 7 stability value (Highest Stability),Pure,X,Pure,Pura,Rein,Pura,Pura,まったくしない,,,极弱,X
+$behaviour0,"Represents the word for the 'behaviour' trait of a bee, which is what time of day the bee is active",Behaviour,X,Comportement,Comportamento,Aktivität,Comportamiento,Comportamento,活動の時間,,,活动时间,X
+$behaviour1,Day time behaviour,Diurnal,X,Diurne,Diurno,Tagsüber,Diurno,Diurna,昼,,,昼,X
+$behaviour2,Night time behaviour,Nocturnal,X,Nocturne,Notturno,Nachts,Nocturno,Noturna,夜,,,夜,X
+$behaviour3,Dawn/dusk behaviour,Crepuscular,X,Crépusculaire,Crepuscolare,Während der Dämmerung,Crepuscular,Crepuscular,明け方と夕方,,,晨昏,X
+$behaviour4,24/7 behaviour,Cathemeral,X,Cathéméral,Catemerale,Ganztägig,Catemeral,Catêmera,いつでも,,,整天间歇,X
+$climate0,"Represents the word for the 'climate' trait of a bee, which is what sort of environment/climate the bees need to work",Climate,X,Climat,Clima,Benötigtes Klima,Clima,Clima,気候,,,适宜气候,X
+$climate1,Cold climate,Polar,X,Polaire,Polare,Polar,Polar,Polar,極寒,,,极地,X
+$climate2,Normal climate,Temperate,X,Tempéré,Temperato,Gemäßigt,Templado,Temperado,ふつう,,,温和,X
+$climate3,Tropical/hot/swamp climate,Tropic,X,Tropical,Tropicale,Tropisch,Tropical,Tropical,熱帯,,,热带,X
+$climate4,Any climate,Any,X,Tous,Qualsiasi,Keine Voraussetzungen,Cualquiera,Qualquer,こだわりなし,,,任意,
+$rainlover,Used to label a bee as liking rain,Rain-lover,X,Pluviophile,Amante della pioggia,Regenliebhaber,Le gusta la lluvia,Amante de chuvas,雨を好む,,,喜雨,
+$snowlover,Used to label a bee as liking snow,Snow-lover,X,Nivophile,Amante della neve,Schneeliebhaber,Le gusta la nieve,Amante de neve,雪を好む,,,喜雪,
+$grumpy,Used to label a bee as grumpy,Grumpy,X,Maussade,Scontrosa,Mürrisch,Enfadada,Rabugenta,怒りやすい,,,易怒,
+$recessive,"Used to mark a trait value as recessive, i.e. 'Rain-lover (Recessive)'",(Recessive),(X),(Récessif),(Recessivo),(Rezessiv),(recesivo),(Recessivo),劣性,,,(隐性),
+$action01,Used in dialogue as an action,Next,X,Suivant,Seguente,Weiter,Siguiente,Próximo,つぎへ,,,继续,X
+$action02,Used in dialogue as an action,Back,X,Retour,Precedente,Zurück,Atrás,Anterior,戻る,,,返回,X
+$action03,Used in dialogue as an action,Claim,X,Obtenir,Accetta,Beanspruchen,Aceptar,Pegar,受け取る,,,领取,X
+$action04,Used in dialogue as an action,Take Map,X,Prendre la carte,Prendi mappa,Karte nehmen,Toma el mapa,Pegar mapa,地図をもらう,,,拿取地图,X
+$action06,Used in dialogue as an action,Sell For,X,Vendre pour,Vendi per,Verkaufen für,Se vende por,Vender por,売る,,,卖出,X
+$action07,Used as a gamepad action label,Close,X,Fermer,Chiudi,Schließen,Cerrar,Fechar,閉じる,,,关闭,X
+$action08,"Used as a button action and text, like 'Hint:'",Hint,X,Indice,Aiuto,Tipp,Pista,Dica,ヒント,,,提示,X
+$action09,Used in home screen menus,Start,X,Commencer,Inizia,Starten,Empezar,Começar,スタート,,,开始,X
+$action10,Used in home screen menus,Feedback,X,Avis,Feedback,Feedback,Enviar comentarios,Feedback,フィードバック,,,反馈,X
+$action11,Used in home screen menus,Quit,X,Quitter,Esci,Beenden,Salir,Sair,やめる,,,退出,X
+$action12,Used in home screen menus,New World,X,Nouveau monde,Nuovo Mondo,Neue Welt,Nuevo mundo,Novo Mundo,新規ワールド,,,新世界,X
+$action13,Used in home screen menus,Loading...,X,Chargement...,Caricamento...,Lädt ...,Cargando...,Carregando...,ロード中...,,,正在载入...,X
+$action14,Used in home screen menus,Deleting...,X,Suppression...,Cancellazione...,Löscht ...,Eliminando...,Apagando...,削除中...,,,正在删除...,X
+$action15,"Used in home screen menus, this is the button that creates a new world when you're ready. In-game you are actually arriving at a port so set sail is the action",Set Sail!,X,Mettre les voiles !,Partiamo!,Segel setzen!,¡Leven anclas!,Zarpar!,出航しよう！,,,扬帆起航!,X
+$action16,Used in NPC menus,Shop,X,Acheter,Compra?,Handeln,Comerciar,Comprar,買いもの,,,购物,
+$action17,"Used in NPC menus for one character who is a fox, so the joke is like, Shop??? I guess???",Shop?,X,Acheter ?,Compra?,Handeln ...?,¿Comerciar?,Comprar?,買いもの？,,,购物?,
+$action18,Used in NPC menus,Talk,X,Parler,Parla,Unterhalten,Hablar,Conversar,話す,,,对话,
+$action19,"Used in NPC menus, same as $action17",Talk?,X,Parler ?,Parla?,Unterhalten ...?,¿Hablar?,Conversar?,話す？,,,对话?,
+$action20,Used in NPC menus,Bye!,X,Au revoir !,Ciao!,Tschüss!,¡Adiós!,Tchau!,バイバイ！,,,拜拜!,
+$action21,Used in NPC menus for when no items are in the 'sell' area,No items,X,Aucun objet,Nessun oggetto,Keine Gegenstände,No hay objetos,Sem itens,アイテムなし,,,无物品,
+$action22,Used in NPC menus for when the player puts a key item in the 'sell' area,Can't sell key items,XX,Impossible de vendre les objets clés,Non puoi vendere oggetti chiave,Unverkäuflich,No puedes vender objetos clave,Não se pode vender itens importantes,キーアイテムは売れないよ,,,无法卖出关键道具,
+$action23,Used in the settings menus,Save,XX,Sauvegarder,Salva,Speichern,Guardar,Salvar,セーブ,,,保存,
+$action24,Used in the settings menus,Controls,XX,Commandes,Controlli,Steuerung,Controles,Controles,コントロール,,,控制,
+$action25,Used in the settings menus,Accessibility,XX,Accessibilité,Accessibilità,Barrierefreiheit,Accesibilidad,Acessibilidade,アクセシビリティ,,,辅助选项,
+$action26,Used in the settings menus,Save + Quit,XX,Sauvegarder et quitter,Salva ed esci,Speichern + Beenden,Guardar y salir,Salvar e Sair,セーブしておわる,,,保存并退出,
+$action27,Used in the settings menus,Saving...,XX,Sauvegarde...,Salvataggio...,Speichere ...,Guardando...,Salvando...,セーブ中...,,,正在保存...,
+$action28,Used in the settings menus,Settings,XX,Réglages,Impostazioni,Einstellungen,Configuración,Configurações,設定,,,设置,
+$action29,Home screen button on PC that links to website,#SaveTheBees,X,#SaveTheBees,#SaveTheBees,#SaveTheBees,#SalvenALasAbejas,#SaveTheBees,#ハチを救え,,,#SaveTheBees,
+$action30,Home screen button on PC that links to the wiki,APICO Wiki,X,Wiki APICO,Wiki di APICO,APICO Wiki,Wiki de APICO,APICO Wiki,APICO Wiki,,,蜂语镇百科,
+$action31,Used in the Mods section,Download,X,Télécharger,Scarica,Herunterladen,Descargar,Download,ダウンロード,,,下载,
+$action32,Used in the Mods section,Remove,X,Supprimer,Rimuovi,Entfernen,Eliminar,Remover,削除,,,移除,
+$action33,Used in the Mods section,Activate,X,Activer,Attiva,Aktivieren,Activar,Ativar,適用,,,启用,
+$action34,Used in the Mods section,Deactivate,X,Désactiver,Disattiva,Deaktivieren,Desactivar,Desativar,解除,,,停用,
+$action35,Used in the Mods section,Mods,X,Mods,Mods,Mods,Mods,Mods,MOD,,,MOD,
+$action36,Used in the Multiplayer menu,Host World,X,Monde hôte,Ospita mondo,Welt bereitstellen,Albergar mundo,Hostear Mundo,ワールドをホスト,,,主机创建世界,
+$action37,Used in the Multiplayer menu,Select World,X,Sélectionner le monde,Seleziona mondo,Welt auswählen,Seleccionar mundo,Selecionar Mundo,ワールドを選択,,,选择世界,
+$action38,Used in the Multiplayer menu,Join World,X,Rejoindre le monde,Unisciti a un mondo,Welt beitreten,Unirse a un mundo,Juntar-se a um Mundo,ワールドに参加,,,加入世界,
+$action39,Used in the Multiplayer menu,Retry,X,Réessayer,Riprova,Nochmal versuchen,Reintentar,Tentar novamente,リトライ,,,重试,
+$action40,Used in workbenches on the main button,Craft,X,Fabriquer,Crea,Herstellen,Crear,Criar,クラフト,,,制造,
+$action41,"Used in anvils on the main button, can be Fix or Repair",Repair,X,Réparer,Ripara,Reparieren,Reparar,Reparar,修理,,,修理,
+$action43,Used in the Multiplayer menu for home screen,Multiplayer,X,Multijoueur,Multiplayer,Mehrspieler,Multijugador,Multiplayer,マルチプレーヤー,,,多人游戏,
+$action44,Used in Discovery popup ,Learn More,X,En savoir plus,Scopri di più,Mehr erfahren,Más información,Aprenda mais,もっと知る,,,了解更多,
+$action45,Used in the Multiplayer menu,Reset Player,X,Réinitialiser le joueur,Resetta giocatore,Spieler zurücksetzen,Restablecer jugador,Resetar jogador,プレーヤーをリセット,,,重置玩家,
+$action47,Used in dye station,Dye,XX,Teinture,Vernice,Farbe,Pintura,Tintura,染料,,,染料,
+$label01,Used to show what item is needed to complete a quest,Requirement,X,Pré-requis,Requisito,Benötigt ,Requisito,Requisito,条件,,,条件,X
+$label02,Used to show what items are needed to complete a quest (plural),Requirements,X,Pré-requis,Requisiti,Benötigt,Requisitos,Requisitos,条件,,,条件,X
+$label03,Used to show a quest can be handed in,Claim,X,OK,Accetta,Nehmen,Aceptar,Aceitar,受け取り,,,领取,X
+$label04,Used to show a quest has been handed in,Claimed,X,En cours,Completata,Abgeschlossen,Completada,Concluída,受け取り済み,,,已领取,X
+$label05,Used in the UI to show a slot can only have items added to it,Input Slot,X,Case de dépôt,Slot di entrata,Bereich zum Hinzufügen,Espacio de entrada,Entrada,投入スロット,,,输入槽位,X
+$label06,Used in the UI to show a slot can only have items taken from it,Output Slot,X,Case de retrait,Slot di uscita,Bereich zum Entnehmen,Espacio de salida,Saída,生産スロット,,,输出槽位,X
+$label07,Used in the UI to show a slot can only have liquid added to it,Liquid Input Slot,X,Case de dépôt de liquide,Slot di entrata di liquidi,Bereich zum Hinzufügen von Flüssigkeiten,Espacio de entrada de líquido,Entrada de Líquido,液体投入スロット,,,液体输入槽位,X
+$label08,Used in the UI to show a slot can only have liquid taken from it,Liquid Output Slot,X,Case de retrait de liquide,Slot di uscita di liquidi,Bereich zum Entnehmen von Flüssigkeiten,Espacio de salida de líquido,Saída de Líquido,液体生産スロット,,,液体输出槽位,X
+$label09,Used to represent the different tiers/levels of bees and flowers,Tier,X,Niveau,Categoria,Entwicklungsstufe,Categoría,Nível,レベル,,,等级,X
+$label10,"Used in the top right corner along with a day count, i.e. Day 1",Day,X,Jour,Giorno,Tag,Día,Dia,日数,,,天数,X
+$label11,Used in the top right corner when the game is paused,Paused!,X,En pause,In pausa!,Pause,¡Pausa!,Pausado!,一時停止中！,,,已暂停!,
+$label12,Used to label a hive Frame item as empty,Empty,X,Vide,Vuoto,Leer,Vacío,Vazio,からっぽ,,,空,
+$label13,Used to label a hive frame item as filled,Filled,X,Rempli,Pieno,Voll,Lleno,Cheio,いっぱい,,,已满,
+$label14,Used to label a hive frame item as uncapped,Uncapped,X,Désoperculé,Disopercolato,Aufgeschabt,Destapado,Aberto,スペースあり,,,已除盖,
+$label15,Tooltip label for the infuser GUI progress,Infusion,X,Infusion,Infusione,Infusion,Infusión,Infusão,加工,,,注入,
+$label16,"Tooltip label for crates, the contents of the crates are shown in tooltips when hovered, this acts as a label",Contents:,X:,Contenu :,Contenuti:,Enthält:,Contenido:,Conteúdos:,中身：,,,内有:,
+$label17,Tooltip label for tool durability. The actual durability amount is on a new line,Durability:,X:,Durabilité :,Durata:,Zustand:,Durabilidad:,Durabilidade:,寿命：,,,耐久:,
+$label18,"Tooltip label for object health, i.e. trees. Actual health amount is on a new line",Health:,X:,Santé :,Salute:,Lebenspunkte:,Salud:,Saúde:,ヘルス：,,,生命值:,
+$label19,"Used in the books along with the quest completion rate, i.e. 10/10 complete! '{COMPLETE}' will be replaced with 'x/x'",{COMPLETE} complete!,X,Terminé : {COMPLETE},Completamento: {COMPLETE},{COMPLETE} abgeschlossen!,¡Completaste {COMPLETE}!,{COMPLETE} concluído!,{COMPLETE} 完了！,,,{COMPLETE} 完成!,
+$label20,Tooltip label for signs to show the message written by the player on the sign,Message:,X:,Message :,Messaggio:,Nachricht:,Mensaje:,Mensagem:,メッセージ：,,,讯息:,
+$label21,Tooltip label for GUI on the charging icon of batteries,Charging,X,En charge,In carica,Laden,Cargando,Carregando,充電,,,充电中,
+$label22,Tooltip label for GUI on the using section of batteries,Using,X,En utilisation,In uso,Nutzen,Usando,Usando,使用中,,,使用中,
+$label23,Tooltip label for liquid storage tanks,Tank,X,Réservoir,Serbatoio,Tanks,Tanque,Tanque,タンク,,,储罐,
+$label24,Tooltip label for battery status,Charging,X,En charge,In carica,Lädt,Cargando,Carregando,充電中,,,充电中,
+$label25,Tooltip label for battery status,Not charging,X,Hors charge,Non in carica,Lädt nicht,No está cargando,Não está carregando,充電していない,,,不在充电,
+$label26,Tooltip label when hovering over a bee icon,Undiscovered,X,Inconnue,Non scoperta,Unbekannt,Sin descubrir,Não descoberto,未発見,,,未发现,
+$label27,Tooltip label when hovering over a bee icon,Discovered,X,Découverte,Scoperta,Bekannt,Descubierta,Descoberto,発見済み,,,已发现,
+$label28,Label for top-right menu button,Menu,X,Menu,Menu,Menü,Menú,Menu,メニュー,,,菜单,
+$label29,Used in the Mods menu,Author,X,Auteur,Autore,Autor,Autor,Autor,作成者,,,作者,
+$label30,Used in the Mods menu,Description,X,Description,Descrizione,Beschreibung,Descripción,Descrição,説明,,,描述,
+$label31,Used in the Mods menu,Version,X,Version,Versione,Version,Versión,Versão,バージョン,,,版本,
+$label32,Used in the Mods menu,Changelog,X,Changelog,Registro modifiche,Änderungen,Registro de cambios,Histórico de alterações,変更履歴,,,更新日志,
+$currency1,"Money currency, this is the main currency of the game. ",Rubees,X,Nectines,Lapislazzuli,Rubienen,Abejólares,Rubelhas,ビーコイン,,,蜂币,
+$currency2,"Money currency, this is a special currency and also a crystal that grows out of the ground",Honeycore,X,Miellites,Cristalmiele,Honigkern,Mielita,Cristamel,ハニーコア,,,蜜核,
+$unit1,"Liquid units, bl as a joke measurement (bee-litres)",bl,XL,la,al,bl,ml,al,ビーリットル,,,蜂升,
+$unit2,"Electricity units, BV as a joke measurement (bee-volts)",BV,XV,VA,AV,BV,V,AV,ビーボルト,,,蜂伏,
+$unit3,"Electricity units, BV as a joke measurement (bee-volts)",BV per second,X,VA par seconde,AV per secondo,BV pro Sekunde,V por segundo,AV por segundo,ビーボルト/秒,,,蜂伏/秒,
+$book1,"Used with totals of quest books, i.e. 5/10 chapters complete",chapters complete,X,chapitres terminés,capitoli completati,Kapitel abgeschlossen,capítulos completados,capítulos completos,章がクリア済み,,,章节已完成,X
+$book2,Used for the 'overview' chapter titles,Overview,X,Vue d'ensemble,Panoramica,Übersicht,Resumen,Visão geral,概要,,,概览,
+$book3,Used for when a chapter is marked as complete,Complete,X,Terminé,Completato,Abgeschlossen,Completado,Completo,済,,,已完成,
+$book4,Used for when a chapter is marked as ready to hand in,Ready,X,Prêt,Pronto,Bereit zum Abschluss,Listo,Pronto,開放済み,,,就绪,
+$book5,Used for when a chapter is marked as not unlocked yet,Locked,X,Verrouillé,Bloccato,Gesperrt,Bloqueado,Bloqueado,未開放,,,未解锁,
+$conservation1,Level 1 conservation status (lowest),Lost,X,Disparue,Perduta,Verloren,Desaparecida,Perdida,未発見,,,不存在,X
+$conservation2,Level 2 conservation status,Vulnerable,X,Vulnérable,Vulnerabile,Verwundbar,Vulnerable,Vulnerável,少数のみ生息,,,濒危,X
+$conservation3,Level 3 conservation status,Rallying,X,Favorable,In crescita,In Erholung,En mejoría,Recuperadas,絶滅寸前,,,恢复中,X
+$conservation4,Level 4 conservation status (highest),Thriving,X,Prospère,Fiorente,Blühend,Prosperidad,Próspera,はん栄,,,繁荣,X
+$bee,"Used for the word 'bee', in tooltips and titles and stuff, i.e. The Common Bee",Bee,X,Abeille,Ape,Biene,Abeja,Abelha,ミツバチ,,,蜜蜂,X
+$queen_bee,"Used for the word 'Queen', i.e. 'Common Queen'",Queen,X,Reine,Regina,Königin,Reina,Rainha,女王,,,蜂后,
+$blessed_bee,Used to mark a bee as being 'blessed' in a tooltip,Blessed Bee,X,Abeille bénie,Ape benedetta,Gesegnete Biene,Abeja bendita,Abelha Abençoada,幸運のハチ,,,受祝福的蜜蜂,
+$hybrid_bee,"Used to class a bee in a tooltip, either a 'hybrid' or a 'purebred'",Hybrid,X,Hybride,Ibrida,Hybrid,Híbrida,Híbrida,ハイブリッド,,,杂交,
+$purebred_bee,"Used to class a bee in a tooltip, either a 'hybrid' or a 'purebred'",Purebred,X,Pur-sang,Razza pura,Rein,Raza pura,Raça pura,純血,,,纯种,
+$storage_bee1,Used in the beebox tooltip when only 1 bee is stored,1 bee stored,X,1 abeille en stock,1 ape posseduta,1 Biene eingelagert,1 abeja guardada,1 abelha guardada,1匹保管中,,,储有1只蜜蜂,
+$storage_bee2,Used in the beebox tooltip when multiple bees are stored,{AMOUNT} bees stored,{AMOUNT} X,{AMOUNT} abeilles en stock,{AMOUNT} api possedute,{AMOUNT} wurden eingelagert,{AMOUNT} abejas guardadas,{AMOUNT} abelhas guardadas,{AMOUNT}匹保管中,,,储有{AMOUNT}只蜜蜂,
+$qm1,"Single question mark, used for unknowns",?,X,?,?,?,¿?,?,？,,,?,X
+$qm3,"Three question marks, used for unknowns",???,X,???,???,???,???,???,？？？,,,???,X
+$pronouns1,Used in dialogue for an NPC,He/Him,X,Il/lui,Lui,Er/Sein,Él,Ele/o,彼/彼の,,,他/他,X
+$pronouns2,Used in dialogue for an NPC,She/Her,X,Elle/elle,Lei,Sie/Ihr,Ella,Ela/a,彼女/彼女の,,,她/她,X
+$pronouns3,Used in dialogue for an NPC,He/They,X,Il/iel,Lui/Ləi,Er/Xier,Él/Elle,Ele/Elu,彼/彼ら,,,他/ta,X
+$pronouns4,Used in dialogue for an NPC,She/They,X,Elle/iel,Lei/Ləi,Sie/Xier,Ella/Elle,Ela/Elu,彼女/彼女ら,,,她/ta,X
+$pronouns5,Used in dialogue for an NPC,They/Them,X,Iel/iel,Ləi,Xier/Xiers,Elle,Elu/e,彼ら/彼らを,,,ta/ta,X
+$pronouns6,Used in dialogue for an NPC,?/?,X,?/?,?,?/?,¿?/¿?,?/?,？/？,,,?/?,X
+$npc1,"Name should be an informal for a sailor / captain, this character just goes by the title not an actual name",Skipper,X,Capitaine,Skipper,Der Käpt'n,Don Costa,Capitão,船長,,,船长,X
+$npc2,The name should be a bee-related name pun if possible,Beetrix,X,Anabeille,Nettarina,Bienatrix,Colmenia,Belhatriz,ハチ香,,,蜂雅,X
+$npc3,"Keep the 'Dr.' at the start, and the 'BhD' at the end, he earned them fair and square! Joking aside whatever the 'Dr' equivilent is for your country that will make sense. The name should be a bee-related name pun if possible",Dr. Beenjamin BhD,X,Pr Hippolen BhD,Dr. Favino BhD,Dr. Bienjamin BhD,Dr. Abenjamín,Dr. Benjamel BhD,蜂ノ宮博士,,,本杰蜜博士,X
+$npc4,"This is your actual Nan, so use whatever the informal female grandparent is at the start. The name should be a bee-related name pun if possible",Nana Beelia,X,Mamie Maya,Maya Apelia,Oma Christbiene,Nana Nectina,Vovó Abélia,ミツ代おばあちゃん,,,蜜丽亚奶奶,X
+$npc5,"DONT CHANGE, this is an actual real person's username (it's our composer!)",Mothense,X,Mothense,Mothense,Mothense,Mothense,Mothense,Mothense,Mothense,Mothense,Mothense,X
+$npc6,The name should be a bee-related name pun if possible,Bobbee,X,Samiel,Apessandro,Bienedikt,Poleny,Bel,ハチ郎,,,鲍蜜,X
+$npc7,The name should be a bee-related name pun if possible,Abbee,X,Mellona,Acacia,Sabiene,Abelia,Abigamel,ミツ菜,,,爱蜜,X
+$npc8,The name should be a bee-related name pun if possible,Barnabee,X,Aristée,Apollo,Barnabie,Robejorro,Barnamel,蜂田,,,巴纳蜜,X
+$npc9,"This is based of the Merchant in Resident Evil 4, so whatever nickname is given to the Merchant in the language in that game would be fine",Merchant,X,Marchand,Mercante,Händler,Mercader,Mercador,商人,,,商人,X
+$npcX,"DONT CHANGE, Developers name",Ell,x,Ell,Ell,Ell,Ell,Ell,Ell,Ell,Ell,Ell,X
+$npcY,"DONT CHANGE, Developers name",Jamie,x,Jamie,Jamie,Jamie,Jamie,Jamie,Jamie,Jamie,Jamie,Jamie,X
+$language_en,The language name shown in settings ONLY when your own language is selected.,English,X,-,-,-,-,-,-,-,-,-,X
+$language_xx,The language name shown in settings ONLY when your own language is selected.,Debug,Debug,-,-,-,-,-,-,-,-,-,Debug
+$language_fr,The language name shown in settings ONLY when your own language is selected.,French,X,Français,-,-,-,-,-,-,-,-,X
+$language_it,The language name shown in settings ONLY when your own language is selected.,Italian,X,-,Italiano,-,-,-,-,-,-,-,X
+$language_de,The language name shown in settings ONLY when your own language is selected.,German,X,-,-,Deutsch,-,-,-,-,-,-,X
+$language_es,The language name shown in settings ONLY when your own language is selected.,Spanish,X,-,-,-,Español,-,-,-,-,-,X
+$language_br,The language name shown in settings ONLY when your own language is selected.,Brazilian Portugese,X,-,-,-,-,Português Brasileiro,-,-,-,-,X
+$language_jp,The language name shown in settings ONLY when your own language is selected.,Japanese,X,-,-,-,-,-,日本語,-,-,-,X
+$language_ru,The language name shown in settings ONLY when your own language is selected.,Russian,X,-,-,-,-,-,-,,-,-,X
+$language_kp,The language name shown in settings ONLY when your own language is selected.,Korean,X,-,-,-,-,-,-,,,-,X
+$language_cn,The language name shown in settings ONLY when your own language is selected.,Chinese,X,-,-,-,-,-,-,-,-,中文,X
+$style_hair,Used in the character creation screen,Hair Colour,X,Cheveux,Colore dei capelli,Haarfarbe,Color de cabello,Cor do cabelo,髪の色,,,发色,X
+$style_skin,Used in the character creation screen,Skin Colour,X,Peau,Colore della pelle,Hautfarbe,Color de piel,Cor da pele,肌の色,,,肤色,X
+$style_overalls,Used in the character creation screen,Overalls,X,Salopette,Salopette,Arbeitskleidung,Overol,Macacão,服,,,外套,X
+$style_undershirt,Used in the character creation screen,Undershirt,X,Chemise,Canotta,Unterhemd,Camiseta,Camiseta,シャツ,,,内衣,X
+$gamepad_connected,Used on home screen when a gamepad is connected and selected,Gamepad Connected,X,Manette connectée,Gamepad connesso,Gamepad angeschlossen,Control conectado,Controle conectado,ゲームパッド接続済,,,手柄已连接,X
+$liquid_honey,Used in canisters/tanks to describe the liquid contents ,Honey,X,Miel,Miele,Honig  ,Miel,Mel,ハチミツ,,,蜂蜜,
+$liquid_water,Used in canisters/tanks to describe the liquid contents ,Water,X,Eau,Acqua,Wasser,Agua,Água,水,,,水,
+$liquid_resin,Used in canisters/tanks to describe the liquid contents ,Resin,X,Résine,Resina,Harz,Resina,Resina,樹脂,,,树脂,
+$liquid_mead,Used in canisters/tanks to describe the liquid contents ,Apicola,X,Apicola,Apicola,Apicola ,Apicola,Apicola,ハチミツジル,,,蜂露,
+$ems_kick_host,Used in MP kick menu next to the host's username,(Host),X,(Hôte),(Ospite),(Host),(anfitrión/a),(Host),（ホスト）,,,(主机),
+$ems_kick_friends,Used in MP kick menu before a list of all friend usernames connected,Friends,X,Amis,Amici,Freunde:,Amistades,Amigos,フレンド,,,好友,
+$action46,Used in MP kick menu to invite players for Xbox specifically,Invite,X,Inviter,Invita,Einladen,Invitar,Convidar,招待,,,邀请,
+$liquid_wax,Used in canisters/tanks to describe the liquid contents ,Wax,X,Cire,Cera,Wachs,Cera,Cera,ミツロウ,,,,
+$action48,Used in alchemy bench for combine/mix action KEEP SHORT BUTTON ISNT THAT WIDE,Combine,X,Combiner,Combina,Mischen,Combinar,Combinar,組み合わせる,,,,
+$label33,Used for butterfly lifespan,Lifespan:,X,Durée de vie :,Longevità:,Lebensdauer:,Longevidad:,Tempo de Vida:,寿命：,,,,
+$butterfly,Word for 'butterfly' used with species names (language order handled for you),Butterfly,X,Papillon,Farfalla,Schmetterling,Mariposa,Borboleta,チョウ,,,,
+$biome_forest,biome label for forest islands,Forest,X,Forêt,Foresta,Wald,Bosque,Floresta,森林,,,,
+$biome_swamp,biome label for swamp islands,Swamp,X,Marais,Palude,Sumpf,Pantano,Pântano,湿地,,,,
+$biome_snow,biome label for tundra/snow islands,Tundra,X,Toundra,Tundra,Tundra,Tundra,Tundra,ツンドラ,,,,
+$biome_hallow,biome label for hallowed islands (golden),Hallow,X,Île Sacrée,Sacro,Geweihtes Land,Sacro,Sagrado,神聖,,,,
+$biome_dream,biome label for the hivemother's dream,Dream,X,Rêve,Sogno,Traum,Sueño,Sonho,夢,,,,
+$biome_devland,biome label for the devland,???,X,???,???,???,???,???,???,,,,
+$npc12,This is based off a real person who's name is 'Sto Helit' keep the Dr Sto bit but feel free to pun with the last name. BhD should match what you gave Beenjamin,Dr Sto Beelit BhD,X,Pr Sto Mélitée BhD,Dr.ssa Sto Mielit BhD,Dr. Sto K. Werk BhD,Dra. Sto Abelit,Dra. Sto Belhit BhD,美羽・ストヘリット博士,,,,
+$npc13,This is based off a real person who's name is 'Codey Mathis' keep the Dr Codey part but feel free to do a different lastname or pun. BD is a seperate academia acronym to BhD so can make up a different one here to the one sto and beenjamin have,Dr Codey Mathive BD,X,Pr Codey Mathapis BD,Dr.ssa Codey Aphis BD,Dr. Codey Summ BD,Dra. Codey Matenjambre,Dra. Codey Colmathis BD,八島コーディ研究員,,,,
+$npc14,DONT CHANGE this is an actual real person's username (it's our composer!),Moth(ense),X,Moth(ense),Moth(ense),Moth(ense),Moth(ense),Moth(ense),Moth(ense),,,,
+$action05,Used in dialogue as an action - changed from 'Guide' to 'Book',Take Book,X,Prendre le livre,Prendi libro,Buch nehmen,Tomar el libro,Pegar livro,本をもらう,,,拿取指南,X
+$action49,Used in dialogue as an action to go back to the main page,Back,X,Retour,Indietro,Zurück,Atrás,Voltar,戻る,,,,
